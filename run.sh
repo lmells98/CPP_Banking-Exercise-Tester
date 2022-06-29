@@ -25,7 +25,7 @@ function clearLogs () {
 
 if [ ! -d $CORE ]; then
 	echo " => Cloning Source Files"
-	git clone git@github.com:lmells98/CPP-Tester $CORE
+	git clone https://github.com/lmells98/CPP-BankTester-SOURCE $CORE
 fi
 
 if [ -f $LAUNCH ]; then
