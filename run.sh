@@ -2,7 +2,7 @@
 clear
 echo "Launching..." && sleep 1
 #User Defined CPP Exercise 02
-USRPATH="../Module-1/EX02"
+USRPATH="../Module-00/EX02"
 NAME="Accounts"
 #Launch Path
 USRPROG="$USRPATH/$NAME"
