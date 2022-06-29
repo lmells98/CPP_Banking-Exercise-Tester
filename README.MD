@@ -1,10 +1,12 @@
 # CPP Module-01 Banking Tester
 
-Clone repository into your CPP directory.\n
+Clone repository into your CPP directory.
 
-You can edit the relative or set an absolute path to the exercise executable.\n
-#User Defined CPP Exercise 02\n
-USRPATH="../Module-1/EX02"\n
-NAME="Accounts"\n
-\n
+You can edit the relative or set an absolute path to the exercise executable.<br>
+You can also edit the name of the executable.
+
+#User Defined CPP Exercise 02<br>
+USRPATH="../Module-1/EX02"<br>
+NAME="Accounts"<br>
+
 To run, simply ```./run.sh```
